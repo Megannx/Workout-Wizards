@@ -1,0 +1,33 @@
+<section class="hero is-small is-warning is-bold">
+  <div class="hero-body">
+    <div class="container">
+      <div class="columns is-vcentered">
+        <div class="column is-two-thirds">
+          <p class="title">
+            A Web Application Where You Can Track Your Everyday Workout Routines.
+          </p>
+          <p class="subtitle">
+            Start at your own pace. Customize and develop routines that work for you. Make notes on exercises that you enjoy. Choose exercises by the target muscle group. Track past exercises in the workout's calendar.
+          </p>
+        </div>
+        <div class="column is-one-third">
+          <figure class="image">
+            <img id="random-image" alt="Workout Image">
+          </figure>
+        </div>
+    </div>
+  </div>
+</section>
+
+<main class="section">
+  <div class="container">
+
+    {{#if logged_in}}
+      <p>Welcome back! Check out your latest workout routines.</p>
+      <a href="/api/workout" class="button is-warning">Continue</a>
+    {{else}}
+      <p>Please log in to track your workouts.</p>
+      <a href="/login" class="button is-warning">Get your wizard on</a>
+    {{/if}}
+  </div>
+</main>
