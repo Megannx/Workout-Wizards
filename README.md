@@ -23,7 +23,7 @@
     In this project, we used Bulma(https://bulma.io/) to provide the foundational styling for our website, enabling us to quickly create a clean and responsive design.
 
 ## Link to Application
-    (INSERT LINK HERE)
+    https://workout-wizardz.onrender.com/
 
 ## License
 
