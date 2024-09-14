@@ -8,9 +8,15 @@
 
 ## Application Screenshots
 
-    Below are key screenshots showcasing the functionality and user interface of Workout Wizards. These images highlight the smooth navigation, exercise creation, and workout tracking features, providing a glimpse into the user experience. Explore how the application allows users to add exercises, organize workout plans, and view personalized workout lists with ease.
+    Below is a key screen recording, showcasing the functionality and user interface of Workout Wizards. These details highlight the smooth navigation, exercise creation, and workout tracking features, providing a glimpse into the user experience. Explore how the application allows users to add exercises, organize workout plans, and view personalized workout lists with ease.
 
-    (INSERT SCREENSHOTS/VIDEOS HERE)
+
+
+
+https://github.com/user-attachments/assets/bc6e5690-0781-489b-a936-eee207a9c304
+
+
+
 
 # Sources
 
