@@ -6,7 +6,7 @@ Workout Wizards is a user-friendly web app designed to help you track and discov
 In this project, we integrated various front-end and back-end technologies like CSS, JavaScript, SQL, Handlebars, and Third-Party APIs to build a fully functional web application. We utilized a GitHub TaskBoard to manage individual and team tasks efficiently, which enhanced our skills in project management, collaboration, and communication. This experience not only helped us develop a robust application but also strengthened our ability to work as a cohesive team in a collaborative environment.
 
 
-## Application Screenshots
+## Application Video
 
 Below is a key screen recording, showcasing the functionality and user interface of Workout Wizards. These details highlight the smooth navigation, exercise creation, and workout tracking features, providing a glimpse into the user experience. Explore how the application allows users to add exercises, organize workout plans, and view personalized workout lists with ease.
 
